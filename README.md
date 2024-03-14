@@ -12,3 +12,5 @@ docker exec -it superset superset db upgrade
 docker run -d -p 8080:8088 -v ${PWD}:/data:rw -e "SUPERSET_SECRET_KEY=werftghjk" --name superset my/superset:duckdb
 
 hello world
+jhgfdfghj
+
